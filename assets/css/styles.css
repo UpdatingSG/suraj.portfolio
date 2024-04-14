@@ -178,9 +178,9 @@ nav ul li {
   margin-top: 2rem;
 }
 
-.project-pic {
-  width: 65%;
-  height: 60%;
+.project-pic{
+  width: 11.875rem;
+  height: 11.25rem;
 }
 
 .projects-container {
@@ -196,8 +196,12 @@ nav ul li {
 
 .project-container {
   text-align: center;
+  align-items: center;
   width: 21.875rem;
+  margin-left: 30%;
   padding: 1rem;
+  justify-content: space-between;
+  display: flex;
 }
 
 .project-container p {
